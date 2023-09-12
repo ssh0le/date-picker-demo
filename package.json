@@ -4,7 +4,7 @@
   "homepage": "https://ssh0le.github.io/date-picker-demo",
   "private": true,
   "dependencies": {
-    "@richigo/date-picker-lib": "^1.0.19",
+    "@richigo/date-picker-lib": "^1.0.20",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
