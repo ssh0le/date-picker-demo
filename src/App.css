@@ -26,7 +26,7 @@
 .select-date-picker {
   display: flex;
   width: fit-content;
-  position: sticky;
+  position: absolute;
   top: 100%;
   right: 0;
   background-color: white;
