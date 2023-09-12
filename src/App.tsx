@@ -15,7 +15,7 @@ import Radio from "./components/Radio";
 import axios from "axios";
 import { HolidayResponse } from "./interfaces";
 
-const key = process.env.HOLIDAYS_KEY;
+const key = process.env.REACT_APP_HOLIDAYS_KEY;
 const storageKey = "holidays";
 
 function App() {
