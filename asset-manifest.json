@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/date-picker-demo/static/css/main.b16b030d.css",
-    "main.js": "/date-picker-demo/static/js/main.8499b390.js",
+    "main.js": "/date-picker-demo/static/js/main.b6bfce78.js",
     "static/js/787.fcb7be66.chunk.js": "/date-picker-demo/static/js/787.fcb7be66.chunk.js",
     "index.html": "/date-picker-demo/index.html",
     "main.b16b030d.css.map": "/date-picker-demo/static/css/main.b16b030d.css.map",
-    "main.8499b390.js.map": "/date-picker-demo/static/js/main.8499b390.js.map",
+    "main.b6bfce78.js.map": "/date-picker-demo/static/js/main.b6bfce78.js.map",
     "787.fcb7be66.chunk.js.map": "/date-picker-demo/static/js/787.fcb7be66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b16b030d.css",
-    "static/js/main.8499b390.js"
+    "static/js/main.b6bfce78.js"
   ]
 }
