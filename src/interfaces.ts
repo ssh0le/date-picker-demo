@@ -8,6 +8,7 @@ export interface Holiday {
     name: string,
     date: HolidayDate,
 }
+
 export interface HolidayDate {
     datetime: Datetime
 }
